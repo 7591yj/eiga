@@ -1,3 +1,3 @@
 # Eiga
 
-Movie app using React
+Movie app made with React
