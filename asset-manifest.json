@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eiga/static/css/main.ff44f139.chunk.css",
+    "main.js": "/eiga/static/js/main.2d83c9a8.chunk.js",
+    "main.js.map": "/eiga/static/js/main.2d83c9a8.chunk.js.map",
+    "runtime-main.js": "/eiga/static/js/runtime-main.a236871e.js",
+    "runtime-main.js.map": "/eiga/static/js/runtime-main.a236871e.js.map",
+    "static/js/2.643082d7.chunk.js": "/eiga/static/js/2.643082d7.chunk.js",
+    "static/js/2.643082d7.chunk.js.map": "/eiga/static/js/2.643082d7.chunk.js.map",
+    "index.html": "/eiga/index.html",
+    "static/css/main.ff44f139.chunk.css.map": "/eiga/static/css/main.ff44f139.chunk.css.map",
+    "static/js/2.643082d7.chunk.js.LICENSE.txt": "/eiga/static/js/2.643082d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a236871e.js",
+    "static/js/2.643082d7.chunk.js",
+    "static/css/main.ff44f139.chunk.css",
+    "static/js/main.2d83c9a8.chunk.js"
+  ]
+}
